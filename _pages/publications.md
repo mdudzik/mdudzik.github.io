@@ -83,7 +83,7 @@ B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ...
 Forty-first International Conference on Machine Learning
 7	
 Quantales and hyperstructures: Monads, mo'problems
-A Dudzik
+A Dudzik 
 arXiv preprint arXiv:1707.09227
 5	2017
 Quantales and hyperstructures
