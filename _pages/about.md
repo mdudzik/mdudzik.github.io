@@ -11,4 +11,16 @@ redirect_from:
 ---
 I am a Senior Research Scientist at [Google DeepMind](https://deepmind.google). 
 
+My research ..........
+
 I am interested in ........
+
+
+## need
+
+- From Andrew: text for above
+- will disappear Talks link above until there is something to put there
+- CV above is bare minimum
+- Click publications link.  Still currently fixing and verifying all the URLs
+- Don't know which publications are missing
+- Should they be grouped by area of research?
