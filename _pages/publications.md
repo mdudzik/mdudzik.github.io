@@ -41,7 +41,7 @@ author_profile: true
 Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](https://arxiv.org/abs/2205.02353)
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 - E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
--
+
 
 
 
