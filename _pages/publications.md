@@ -45,14 +45,13 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 - O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ..., [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)\
 Nature 575 (7782), 350-354
 5053	2019
-- O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., Alphastar: Mastering the real-time strategy game starcraft ii
+- O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., [Alphastar: Mastering the real-time strategy game starcraft ii](x)\
 DeepMind blog 2, 20
 574	2019
-- J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., Imitating interactive intelligence
-
+- J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x)
 arXiv preprint arXiv:2012.05672
 74	2020
-- B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., A generalist neural algorithmic learner
+- B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner]()\
 
 Learning on graphs conference, 2: 1-2: 23
 71	2022
