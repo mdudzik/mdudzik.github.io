@@ -44,8 +44,7 @@ Nature 575 (7782), 350-354
 Advances in neural information processing systems 35, 20635-20647 2022 [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/8248b1ded388fcdbbd121bcdfea3068c-Paper-Conference.pdf)
 - B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]() [arXiv:2402.15332](https://arxiv.org/abs/2402.15332)
 	2024
-- W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners]()\
-arXiv preprint arXiv:2406.09308
+- W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308) [arXiv:2406.09308](https://arxiv.org/abs/2406.09308)
 	2024
 - D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
 Collectanea mathematica 67, 1-19
