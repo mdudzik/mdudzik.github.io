@@ -42,13 +42,10 @@ Nature 575 (7782), 350-354
  	2020
 - AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DdFjaEEAAAAJ&citation_for_view=DdFjaEEAAAAJ:9yKSN-GCB0IC)\
 Advances in neural information processing systems 35, 20635-20647 2022 [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/8248b1ded388fcdbbd121bcdfea3068c-Paper-Conference.pdf)
-- B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]() [arXiv:2402.15332](https://arxiv.org/abs/2402.15332)
+- B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures](https://arxiv.org/abs/2402.15332) [arXiv:2402.15332](https://arxiv.org/abs/2402.15332)
 	2024
 - W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308) [arXiv:2406.09308](https://arxiv.org/abs/2406.09308)
 	2024
-- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
-Collectanea mathematica 67, 1-19
-	2016
 - B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://openreview.net/forum?id=EIcxV7T0Sy)\
 Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 7
@@ -61,7 +58,9 @@ Learning on Graphs Conference, 3: 1-3: 17
 - P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()\
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 2024 [PDF](https://openreview.net/pdf?id=eeEMjpO2Kv)
-
+- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
+Collectanea mathematica 67, 1-19
+	2016
 ## PhD Thesis
 
 - A Dudzik , [Quantales and hyperstructures: Monads, mo'problems]()\
