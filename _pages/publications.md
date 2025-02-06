@@ -42,6 +42,60 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 - E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 
-
+Grandmaster level in StarCraft II using multi-agent reinforcement learning
+O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ...
+nature 575 (7782), 350-354
+5053	2019
+Alphastar: Mastering the real-time strategy game starcraft ii
+O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ...
+DeepMind blog 2, 20
+574	2019
+Imitating interactive intelligence
+J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ...
+arXiv preprint arXiv:2012.05672
+74	2020
+A generalist neural algorithmic learner
+B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ...
+Learning on graphs conference, 2: 1-2: 23
+71	2022
+Graph neural networks are dynamic programmers
+AJ Dudzik, P Veličković
+Advances in neural information processing systems 35, 20635-20647
+70	2022
+Embeddings and immersions of tropical curves
+D Cartwright, A Dudzik, M Manjunath, Y Yao
+Collectanea mathematica 67, 1-19
+25	2016
+Categorical deep learning: An algebraic theory of architectures
+B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ...
+arXiv preprint arXiv:2402.15332
+12	2024
+Asynchronous algorithmic alignment with cocycles
+AJ Dudzik, T von Glehn, R Pascanu, P Veličković
+Learning on Graphs Conference, 3: 1-3: 17
+10	2024
+Transformers meet Neural Algorithmic Reasoners
+W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ...
+arXiv preprint arXiv:2406.09308
+7	2024
+Position: Categorical Deep Learning is an Algebraic Theory of All Architectures
+B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ...
+Forty-first International Conference on Machine Learning
+7	
+Quantales and hyperstructures: Monads, mo'problems
+A Dudzik
+arXiv preprint arXiv:1707.09227
+5	2017
+Quantales and hyperstructures
+AJ Dudzik
+University of California, Berkeley
+2	2016
+Asynchrony Invariance Loss Functions for Graph Neural Networks
+P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković
+ICML 2024 Workshop on Geometry-grounded Representation Learning and …
+2024
+TANNAKA-KREIN DUALITY FOR FINITE GROUPS
+A DUDZIK
+2011
 
 
