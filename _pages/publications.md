@@ -67,7 +67,7 @@ University of California, Berkeley
 
 ## Other
 
-- A Dudzik, [Tannaka-Krein Duality for Finite Groups]() 
+- A Dudzik, [Tannaka-Krein Duality for Finite Groups](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DdFjaEEAAAAJ&citation_for_view=DdFjaEEAAAAJ:qjMakFHDy7sC) 
 2011
 
 
