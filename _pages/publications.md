@@ -49,12 +49,10 @@ Advances in neural information processing systems 35, 20635-20647 2022 [PDF](htt
 - B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://openreview.net/forum?id=EIcxV7T0Sy)\
 Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 7
-- B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner]()\
-Learning on graphs conference, 2: 1-2: 23
-	2022
-- AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles]()\
-Learning on Graphs Conference, 3: 1-3: 17
-	2024
+- B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner](https://proceedings.mlr.press/v198/ibarz22a.html)
+Learning on graphs conference, 2: 1-2: 23 [PDF](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf) 2022
+- AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles](https://proceedings.mlr.press/v231/dudzik24a.html)
+Learning on Graphs Conference, 3: 1-3: 17 2024 [PDF](https://proceedings.mlr.press/v231/dudzik24a/dudzik24a.pdf)
 - P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()\
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 2024 [PDF](https://openreview.net/pdf?id=eeEMjpO2Kv)
