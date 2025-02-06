@@ -42,7 +42,7 @@ Algebraic &amp; Geometric Topology 24-4 (2024), 2171--2183. [arXiv:2205.02353](h
 - P. Hackney, V. Ozornova, E. Riehl, M. Rovelli, An (&infin;, 2)-categorical pasting theorem, Trans. Amer. Math. Soc. 376 (2023), 555–597, [arXiv:2106.03660](https://arxiv.org/abs/2106.03660)
 - E. Riehl and M. Wattal, [On &infin;-cosmoi of bicategories](https://emilyriehl.github.io/files/bicategories.pdf), La Matematica 1, (2022), 740–764, [arXiv:2108.11786](https://arxiv.org/abs/2108.11786)
 
-- O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ..., [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)
+- O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ..., [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)\
 Nature 575 (7782), 350-354
 5053	2019
 - O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., Alphastar: Mastering the real-time strategy game starcraft ii
