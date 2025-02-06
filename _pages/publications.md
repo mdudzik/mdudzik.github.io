@@ -40,8 +40,8 @@ Nature 575 (7782), 350-354
 - O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., [Alphastar: Mastering the real-time strategy game starcraft II](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/) DeepMind blog 2, 20 2019
 - J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x) [arXiv:2012.05672](https://arxiv.org/abs/2012.05672)
  	2020
-- AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers]()\
-Advances in neural information processing systems 35, 20635-20647
+- AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DdFjaEEAAAAJ&citation_for_view=DdFjaEEAAAAJ:9yKSN-GCB0IC)\
+Advances in neural information processing systems 35, 20635-20647 [PDF](https://proceedings.neurips.cc/paper_files/paper/2022/file/8248b1ded388fcdbbd121bcdfea3068c-Paper-Conference.pdf)
 	2022
 - B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]()\
 arXiv preprint arXiv:2402.15332
