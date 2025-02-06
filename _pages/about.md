@@ -5,6 +5,7 @@ title: "category theorist, working mathematician"
 author_profile: true
 redirect_from: 
   - /about/
+  - /andrew/
   - /about.html
 ---
 
