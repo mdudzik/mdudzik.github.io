@@ -49,10 +49,10 @@ Advances in neural information processing systems 35, 20635-20647 2022 [PDF](htt
 Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 7
 - B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner](https://proceedings.mlr.press/v198/ibarz22a.html)
-Learning on graphs conference, 2: 1-2: 23 [PDF](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf) 2022
+Learning on graphs conference, 2: 1-2: 23 2022 [PDF](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)
 - AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles](https://proceedings.mlr.press/v231/dudzik24a.html)
 Learning on Graphs Conference, 3: 1-3: 17 2024 [PDF](https://proceedings.mlr.press/v231/dudzik24a/dudzik24a.pdf)
-- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()
+- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks](https://openreview.net/forum?id=eeEMjpO2Kv)
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 2024 [PDF](https://openreview.net/pdf?id=eeEMjpO2Kv)
 - D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
