@@ -53,7 +53,7 @@ Forty-first International Conference on Machine Learning [PDF](https://openrevie
 Learning on graphs conference, 2: 1-2: 23 [PDF](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf) 2022
 - AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles](https://proceedings.mlr.press/v231/dudzik24a.html)
 Learning on Graphs Conference, 3: 1-3: 17 2024 [PDF](https://proceedings.mlr.press/v231/dudzik24a/dudzik24a.pdf)
-- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()\
+- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 2024 [PDF](https://openreview.net/pdf?id=eeEMjpO2Kv)
 - D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
@@ -61,9 +61,8 @@ Collectanea mathematica 67, 1-19
 	2016
 ## PhD Thesis
 
-- A Dudzik , [Quantales and hyperstructures: Monads, mo'problems]()\
-arXiv preprint arXiv:1707.09227
-	2017
+- A Dudzik , [Quantales and hyperstructures: Monads, mo'problems](https://arxiv.org/abs/1707.09227)
+[arXiv:1707.09227](https://arxiv.org/abs/1707.09227) 2017 [PDF](https://arxiv.org/pdf/1707.09227)
 - AJ Dudzik, [Quantales and hyperstructures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DdFjaEEAAAAJ&citation_for_view=DdFjaEEAAAAJ:UeHWp8X0CEIC)
 University of California, Berkeley
 	2016
