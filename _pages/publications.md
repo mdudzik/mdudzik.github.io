@@ -55,6 +55,7 @@ arXiv preprint arXiv:2402.15332
 arXiv preprint arXiv:2406.09308
 	2024
 ## Conferences
+
 - B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://openreview.net/forum?id=EIcxV7T0Sy)\
 Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 7
@@ -68,12 +69,15 @@ Learning on Graphs Conference, 3: 1-3: 17
 ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative Modeling
 2024 [PDF](https://openreview.net/pdf?id=eeEMjpO2Kv)
 ## PhD Thesis
+
 - A Dudzik , [Quantales and hyperstructures: Monads, mo'problems]()\
 arXiv preprint arXiv:1707.09227
 	2017
 - AJ Dudzik, [Quantales and hyperstructures]()\
 University of California, Berkeley
 	2016
+
+## Other
 - A Dudzik, [Tannaka-Krein Duality for Finite Groups]() 
 2011
 
