@@ -18,7 +18,7 @@ I am interested in ........
 
 ## need
 
-- From Andrew: text for above and replacement for "category theorist, working mathematician" (was Emily Riehl's)
+- From Andrew: text for above and replacement for "category theorist, working mathematician"
 - ~~will disappear Talks link above until there is something to put there~~
 - CV above is bare minimum.  Can add more as you wish.
 - Click publications link.  ~~Still currently fixing and verifying all the URLs~~  All URLs should work
