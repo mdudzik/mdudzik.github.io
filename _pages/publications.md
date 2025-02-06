@@ -32,7 +32,7 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-## Published Research
+## Research
 
 - O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ..., [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)\
 Nature 575 (7782), 350-354
@@ -51,12 +51,9 @@ arXiv preprint arXiv:2402.15332
 - W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners]()\
 arXiv preprint arXiv:2406.09308
 	2024
-- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()
+- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves](https://link.springer.com/article/10.1007/s13348-015-0149-8)
 Collectanea mathematica 67, 1-19
 	2016
-
-## Conferences
-
 - B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://openreview.net/forum?id=EIcxV7T0Sy)\
 Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 7
@@ -75,7 +72,7 @@ ICML 2024 Workshop on Geometry-grounded Representation Learning and Generative M
 - A Dudzik , [Quantales and hyperstructures: Monads, mo'problems]()\
 arXiv preprint arXiv:1707.09227
 	2017
-- AJ Dudzik, [Quantales and hyperstructures]()\
+- AJ Dudzik, [Quantales and hyperstructures](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=DdFjaEEAAAAJ&citation_for_view=DdFjaEEAAAAJ:UeHWp8X0CEIC)
 University of California, Berkeley
 	2016
 
