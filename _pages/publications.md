@@ -45,15 +45,15 @@ DeepMind blog 2, 20
 - AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers]()\
 Advances in neural information processing systems 35, 20635-20647
 	2022
-- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()
-Collectanea mathematica 67, 1-19
-	2016
 - B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]()\
 arXiv preprint arXiv:2402.15332
 	2024
 - W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners]()\
 arXiv preprint arXiv:2406.09308
 	2024
+- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()
+Collectanea mathematica 67, 1-19
+	2016
 
 ## Conferences
 
