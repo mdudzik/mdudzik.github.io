@@ -46,8 +46,7 @@ Advances in neural information processing systems 35, 20635-20647 2022 [PDF](htt
 - W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners](https://arxiv.org/abs/2406.09308) [arXiv:2406.09308](https://arxiv.org/abs/2406.09308)
 	2024
 - B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures](https://openreview.net/forum?id=EIcxV7T0Sy)\
-Forty-first International Conference on Machine Learning [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
-7
+Forty-first International Conference on Machine Learning 2024 [PDF](https://openreview.net/pdf?id=EIcxV7T0Sy)
 - B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner](https://proceedings.mlr.press/v198/ibarz22a.html)
 Learning on graphs conference, 2: 1-2: 23 2022 [PDF](https://proceedings.mlr.press/v198/ibarz22a/ibarz22a.pdf)
 - AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles](https://proceedings.mlr.press/v231/dudzik24a.html)
