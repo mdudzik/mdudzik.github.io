@@ -37,9 +37,7 @@ author_profile: true
 - O Vinyals, I Babuschkin, WM Czarnecki, M Mathieu, A Dudzik, J Chung, ..., [Grandmaster level in StarCraft II using multi-agent reinforcement learning](https://www.nature.com/articles/s41586-019-1724-z)\
 Nature 575 (7782), 350-354
 	2019
-- O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., [Alphastar: Mastering the real-time strategy game starcraft ii](x)\
-DeepMind blog 2, 20
-	2019
+- O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., [Alphastar: Mastering the real-time strategy game starcraft II](https://deepmind.google/discover/blog/alphastar-mastering-the-real-time-strategy-game-starcraft-ii/) DeepMind blog 2, 20 2019
 - J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x) [arXiv:2012.05672](https://arxiv.org/abs/2012.05672)
  	2020
 - AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers]()\
