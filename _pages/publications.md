@@ -49,7 +49,7 @@ Nature 575 (7782), 350-354
 DeepMind blog 2, 20
 574	2019
 - J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x)\
-arXiv preprint arXiv:2012.05672
+arXiv preprint [arXiv:2012.05672](https://arxiv.org/abs/2012.05672)
 74	2020
 - B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner]()\
 Learning on graphs conference, 2: 1-2: 23
@@ -57,7 +57,7 @@ Learning on graphs conference, 2: 1-2: 23
 - AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers]()\
 Advances in neural information processing systems 35, 20635-20647
 70	2022
-- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()\
+- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()
 Collectanea mathematica 67, 1-19
 25	2016
 - B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]()\
