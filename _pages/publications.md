@@ -48,50 +48,50 @@ Nature 575 (7782), 350-354
 - O Vinyals, I Babuschkin, J Chung, M Mathieu, M Jaderberg, ..., [Alphastar: Mastering the real-time strategy game starcraft ii](x)\
 DeepMind blog 2, 20
 574	2019
-- J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x)
+- J Abramson, A Ahuja, I Barr, A Brussee, F Carnevale, M Cassin, ..., [Imitating interactive intelligence](x)\
 arXiv preprint arXiv:2012.05672
 74	2020
 - B Ibarz, V Kurin, G Papamakarios, K Nikiforou, M Bennani, R Csordás, ..., [A generalist neural algorithmic learner]()\
 
 Learning on graphs conference, 2: 1-2: 23
 71	2022
-- AJ Dudzik, P Veličković, Graph neural networks are dynamic programmers
+- AJ Dudzik, P Veličković, [Graph neural networks are dynamic programmers]()\
 
 Advances in neural information processing systems 35, 20635-20647
 70	2022
-- D Cartwright, A Dudzik, M Manjunath, Y Yao, Embeddings and immersions of tropical curves
+- D Cartwright, A Dudzik, M Manjunath, Y Yao, [Embeddings and immersions of tropical curves]()\
 
 Collectanea mathematica 67, 1-19
 25	2016
-- B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., Categorical deep learning: An algebraic theory of architectures
+- B Gavranović, P Lessard, A Dudzik, T von Glehn, JGM Araújo, ..., [Categorical deep learning: An algebraic theory of architectures]()\
 
 arXiv preprint arXiv:2402.15332
 12	2024
-- AJ Dudzik, T von Glehn, R Pascanu, P Veličković, Asynchronous algorithmic alignment with cocycles
+- AJ Dudzik, T von Glehn, R Pascanu, P Veličković, [Asynchronous algorithmic alignment with cocycles]()\
 
 Learning on Graphs Conference, 3: 1-3: 17
 10	2024
-- W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., Transformers meet Neural Algorithmic Reasoners
+- W Bounsi, B Ibarz, A Dudzik, JB Hamrick, L Markeeva, A Vitvitskyi, ..., [Transformers meet Neural Algorithmic Reasoners]()\
 
 arXiv preprint arXiv:2406.09308
 7	2024
-- B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., Position: Categorical Deep Learning is an Algebraic Theory of All Architectures
+- B Gavranović, P Lessard, AJ Dudzik, T von Glehn, JGM Araújo, ..., [Position: Categorical Deep Learning is an Algebraic Theory of All Architectures]()\
 
 Forty-first International Conference on Machine Learning
 7	
-- A Dudzik , Quantales and hyperstructures: Monads, mo'problems
+- A Dudzik , [Quantales and hyperstructures: Monads, mo'problems]()\
 
 arXiv preprint arXiv:1707.09227
 5	2017
-- AJ Dudzik, Quantales and hyperstructures
+- AJ Dudzik, [Quantales and hyperstructures]()\
 
 University of California, Berkeley
 2	2016
-- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, Asynchrony Invariance Loss Functions for Graph Neural Networks
+- P Monteagudo-Lago, A Rosinski, AJ Dudzik, P Veličković, [Asynchrony Invariance Loss Functions for Graph Neural Networks]()\
 
 ICML 2024 Workshop on Geometry-grounded Representation Learning and …
 2024
-- A DUDZIK, TANNAKA-KREIN DUALITY FOR FINITE GROUPS
+- A DUDZIK, [TANNAKA-KREIN DUALITY FOR FINITE GROUPS]()\
 
 2011
 
