@@ -28,7 +28,7 @@ author:
   bio              : "Research Scientist"
   location         : "London"
   employer         : "Google DeepMind"
-  uri              : # URL
+  uri              : "https://deepmind.google/"
   email            : "adudzik@google.com"
 
   # Academic websites
