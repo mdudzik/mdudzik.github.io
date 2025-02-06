@@ -20,7 +20,8 @@ I am interested in ........
 
 - From Andrew: text for above and replacement for "category theorist, working mathematician" (was Emily Riehl's)
 - ~~will disappear Talks link above until there is something to put there~~
-- CV above is bare minimum
-- Click publications link.  Still currently fixing and verifying all the URLs
-- Don't know which publications are missing
+- CV above is bare minimum.  Can add more as you wish.
+- Click publications link.  ~~Still currently fixing and verifying all the URLs~~  All URLs should work
+- Don't know which publications are missing, if any
 - Should they be grouped by area of research?
+- Should they be reordered in any way
