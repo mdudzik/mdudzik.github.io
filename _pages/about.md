@@ -9,6 +9,8 @@ redirect_from:
   - /andrew
   - /about.html
 ---
-I am a Senior Research Scientist at [Google DeepMind](https://deepmind.google). 
 
-## [Publications]({{base_url}}/publications)
+
+## Page under construction
+
+## [My Publications]({{base_url}}/publications)
