@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "category theorist, working mathematician"
+title: "Research Scientist, Mathematician"
 # excerpt: "About me"
 author_profile: true
 redirect_from: 
