@@ -11,17 +11,4 @@ redirect_from:
 ---
 I am a Senior Research Scientist at [Google DeepMind](https://deepmind.google). 
 
-My research ..........
-
-I am interested in ........
-
-
-## need
-
-- From Andrew: text for above and replacement for "category theorist, working mathematician"
-- ~~will disappear Talks link above until there is something to put there~~
-- CV above is bare minimum.  Can add more as you wish.
-- Click publications link.  ~~Still currently fixing and verifying all the URLs~~  All URLs should work
-- Don't know which publications are missing, if any
-- Should they be grouped by area of research?
-- Should they be reordered in any way
+## [Publications]({{base_url}}/publications)
